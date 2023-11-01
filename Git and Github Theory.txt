@@ -49,7 +49,9 @@ This workflow allows you to track changes, control what goes into each commit, a
 ---------------------------------------------------------------------------------------------------------------------------
 
 3. Explain what .gitignore is and why it’s important in version control?
-Solution: .gitignore is a configuration file in Git that specifies files and directories that should be ignored and not tracked by version control. It's important because it prevents irrelevant files, such as temporary files, build artifacts, and sensitive information, from cluttering the version history and being accidentally committed. This ensures a cleaner, more efficient version control system and avoids potential security risks or bloating of the repository.
+Solution: .gitignore is a configuration file in Git that specifies files and directories that should be ignored and not tracked by version control. It's important because it prevents irrelevant files, such as temporary 
+files, build artifacts, and sensitive information, from cluttering the version history and being accidentally committed. This ensures a cleaner, more efficient version control system and avoids potential security risks 
+or bloating of the repository.
 
 ---------------------------------------------------------------------------------------------------------------------------
 
